@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "ISapiCompras", "ISapiCompras\ISapiCompras.dtproj", "{B316650F-F553-4800-9A2E-8F704685037E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B316650F-F553-4800-9A2E-8F704685037E}.Development|Default.ActiveCfg = Development
+		{B316650F-F553-4800-9A2E-8F704685037E}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5C8A15B-6D27-497C-8E3D-73C4F366597C}
+	EndGlobalSection
+EndGlobal
